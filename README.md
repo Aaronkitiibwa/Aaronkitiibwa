@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nakyenalire Aaron</h1>
-<h3 align="center">A passionate frontend developer from Uganda</h3>
+<h3 align="center">A passionate frontend developer and Data Analyst from Uganda</h3>
 - 🔭 I’m currently working on Movie Ranking Site [Movie Ranking Site](https://shiny-tulumba-e91379.netlify.app/)
 
 - 🌱 I’m currently learning **JavaScript, React**
